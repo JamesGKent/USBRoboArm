@@ -1,5 +1,5 @@
 # USBRoboArm
-This library provides an interface to control the USB robotic arm available from maplin:  
+This python library provides an interface to control the USB robotic arm available from maplin:  
 http://www.maplin.co.uk/p/usb-controlled-robotic-arm-kit-a37jn  
 the libary exposes a simple interface by creating an object for the arm, and calling methods of it to move:
 ```
