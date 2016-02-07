@@ -39,6 +39,6 @@ To halt all movement the function
 arm.stop_moving()
 ```
 
-Planned improvements:
-1) asyncronous delays (non blocking call with a duration)
+Planned improvements:  
+1) asyncronous delays (non blocking call with a duration)  
 2) add connect and disconnect methods
